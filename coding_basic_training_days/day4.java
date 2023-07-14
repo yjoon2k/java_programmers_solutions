@@ -2,7 +2,7 @@ public class day4 {
     
 }
 
-class Solution_4_2 {
+class Solution_4_1 {
     public int solution(int num, int n) {
         return num % n == 0 ? 1 : 0;
     }

@@ -4,7 +4,7 @@ public class day2 {
     
 }
 
-public class Solution_2_1 {
+class Solution_2_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
@@ -14,7 +14,7 @@ public class Solution_2_1 {
     }
 }
 
-public class Solution_2_2 {
+class Solution_2_2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String a = sc.next();
@@ -24,7 +24,7 @@ public class Solution_2_2 {
     }
 }
 
-public class Solution_2_3 {
+class Solution_2_3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String a = sc.next();
@@ -35,7 +35,7 @@ public class Solution_2_3 {
     }
 }
 
-public class Solution_2_4 {
+class Solution_2_4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
